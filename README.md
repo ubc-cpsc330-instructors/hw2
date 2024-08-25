@@ -1,4 +1,4 @@
-# Homework
+# Homework 2
 
 In general, your homework assignment will require you to clone this repo, and answer the questions in the `.ipynb` file.
 
